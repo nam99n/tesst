@@ -2,9 +2,8 @@
 using namespace std;
 
 int main(){
+    int a,b:
     
 
-bdjkhlsbj
-fbhkjsfk
     return 0;
 }
